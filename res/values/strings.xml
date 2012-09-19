@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="billAmount_prompt">Enter bill amount, 00.00</string>
+    <string name="percentage_prompt">Choose % you would like to tip</string>
+    <string name="calculate_prompt">Calculate</string>
+    
+    <string-array name="percentage_array">
+		<item>0%</item>
+		<item>2%</item>
+		<item>5%</item>
+		<item>10%</item>
+		<item>15%</item>
+		<item>20%</item>
+		<item>25%</item>
+		<item>30%</item>
+		<item>35%</item>
+		<item>40%</item>
+	</string-array>
+</resources>
